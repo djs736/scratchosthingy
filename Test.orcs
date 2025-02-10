@@ -1,4 +1,4 @@
-gui = new.(Frame)
+gui = new.(Frame)|
 
-gui.Centered
-gui.size = 660 x 660
+gui.Centered |
+gui.size = 660 x 660 |
